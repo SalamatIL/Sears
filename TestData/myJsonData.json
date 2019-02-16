@@ -1,0 +1,12 @@
+{
+    "mainMenuList":[
+        "Deals",
+        "Coupons",
+        "Weekly Ad"
+    ],
+    "applianceMenu": [
+        "Appliances",
+        "Auto",
+        "Clothing"
+    ]
+}

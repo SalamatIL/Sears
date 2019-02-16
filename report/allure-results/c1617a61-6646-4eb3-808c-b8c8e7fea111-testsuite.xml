@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550276633359' stop='1550276645901'>
+    <name>testing appliances page</name>
+    <title>testing appliances page</title>
+    <test-cases>
+        <test-case start='1550276641183' status='passed' stop='1550276645898'>
+            <name>should check te list /get data from json file</name>
+            <title>should check te list /get data from json file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550276645898' status='pending' stop='1550276645900'>
+            <name>should print list of appliances on </name>
+            <title>should print list of appliances on </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

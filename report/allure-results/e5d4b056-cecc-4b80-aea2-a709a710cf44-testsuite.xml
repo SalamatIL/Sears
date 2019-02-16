@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550279304415' stop='1550279316812'>
+    <name>testing appliances page</name>
+    <title>testing appliances page</title>
+    <test-cases>
+        <test-case start='1550279309147' status='passed' stop='1550279313678'>
+            <name>should print list of appliances on </name>
+            <title>should print list of appliances on </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550279313678' status='passed' stop='1550279316809'>
+            <name>should check te list /get data from json file</name>
+            <title>should check te list /get data from json file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
